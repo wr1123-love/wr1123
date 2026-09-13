@@ -1,6 +1,8 @@
 #include<stdio.h>
 
 int main(){
-	printf("hxsnwxuihb\n");
+
+	printf("ksfjaKLNcl\n");
+	printf("134651\n");
 	return 0;
 }
