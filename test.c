@@ -2,7 +2,6 @@
 
 int main(){
 
-	printf("ksfjaKLNcl\n");
-	printf("134651\n");
+	printf("嘿嘿");
 	return 0;
 }
